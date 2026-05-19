@@ -4,7 +4,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://learntowork.online/</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -27,6 +27,13 @@
   <url>
     <loc>https://learntowork.online/online-store/</loc>
     <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://learntowork.online/trading-education/</loc>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -139,6 +146,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Trading Education Articles -->
+  <url>
+    <loc>https://learntowork.online/candlestick-patterns-guide/</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Static Pages -->
   <url>
     <loc>https://learntowork.online/about/</loc>
@@ -175,4 +190,4 @@
     <priority>0.4</priority>
   </url>
 
-</urlset>    
+</urlset>
